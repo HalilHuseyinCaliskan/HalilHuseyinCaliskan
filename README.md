@@ -45,7 +45,7 @@
     </tr>
     <tr>
       <td><b><a href="https://github.com/HalilHuseyinCaliskan/CoreSense">CoreSense</a></b></td>
-      <td>Linux Tabanlı Sistemler için Geliştirilmiş, Donanım İzleme ve Koruma Odaklı Özel Bir Sistem Servisi</td>
+      <td>Linux Sistemler için CPU Sıcaklık Takip Servisi ve LSTM ile Anomali Tespiti </td>
       <td><code>Linux</code>, <code>LSTM</code>, <code>Bash</code>, <code>ONNX</code></td>
     </tr>
   </tbody>
