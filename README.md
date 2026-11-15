@@ -34,14 +34,14 @@
       <td><code>VHDL</code>, <code>RISC-V</code>, <code>FPGA</code>, <code>RTL</code></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/HalilHuseyinCaliskan/CUDA_Image_Processing_Kernels">CUDA Tabanlı Görüntü İşleme Çekirdeklerinin Geliştirilmesi</a></b></td>
+      <td><b><a href="https://github.com/HalilHuseyinCaliskan/CUDA_Image_Processing_Kernels">CUDA_Image_Processing_Kernels</a></b></td>
       <td>CUDA Tabanlı Görüntü İşleme Çekirdeklerinin Geliştirilmesi</td>
       <td><code>CUDA</code>, <code>GPU</code>, <code>C++</code></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/halilhuseyincaliskan">Proje 3</a></b></td>
-      <td>Sayısal tasarım / gömülü sistemler proje açıklaması.</td>
-      <td><code>Verilog</code>, <code>C/C++</code></td>
+      <td><b><a href="https://github.com/HalilHuseyinCaliskan/CoreSense">CoreSense</a></b></td>
+      <td>Linux Tabanlı Sistemler için Geliştirilmiş, Donanım İzleme ve Koruma Odaklı Özel Bir Sistem Servisi</td>
+      <td><code>Linux</code>, <code>LSTM</code>, <code>Bash</code>, <code>ONNX</code></td>
     </tr>
   </tbody>
 </table>
