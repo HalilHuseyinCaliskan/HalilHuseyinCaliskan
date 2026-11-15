@@ -30,13 +30,13 @@
   <tbody>
     <tr>
       <td><b><a href="https://github.com/HalilHuseyinCaliskan/riscv-fpga">riscv-fpga</a></b></td>
-      <td>FPGA üzerinde RISC-V tabanlı işlemci mimarisi ve tasarımı.</td>
-      <td><code>VHDL</code>, <code>RISC-V</code>, <code>FPGA</code></td>
+      <td>Artix-7 FPGA Tabanlı 32-Bit RISC-V CPU Tasarımı, Simülasyonu ve RTL Doğrulaması</td>
+      <td><code>VHDL</code>, <code>RISC-V</code>, <code>FPGA</code>, <code>RTL</code></td>
     </tr>
     <tr>
-      <td><b><a href="https://github.com/halilhuseyincaliskan">Proje 2</a></b></td>
-      <td>Görüntü işleme / derin öğrenme tabanlı proje açıklaması.</td>
-      <td><code>Python</code>, <code>PyTorch</code>, <code>OpenCV</code></td>
+      <td><b><a href="https://github.com/HalilHuseyinCaliskan/CUDA_Image_Processing_Kernels">CUDA Tabanlı Görüntü İşleme Çekirdeklerinin Geliştirilmesi</a></b></td>
+      <td>CUDA Tabanlı Görüntü İşleme Çekirdeklerinin Geliştirilmesi</td>
+      <td><code>CUDA</code>, <code>GPU</code>, <code>C++</code></td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/halilhuseyincaliskan">Proje 3</a></b></td>
