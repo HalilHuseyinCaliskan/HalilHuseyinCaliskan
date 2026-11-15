@@ -34,6 +34,11 @@
       <td><code>VHDL</code>, <code>RISC-V</code>, <code>FPGA</code>, <code>RTL</code></td>
     </tr>
     <tr>
+      <td><b><a href="https://github.com/HalilHuseyinCaliskan/embeddedML">embeddedML</a></b></td>
+      <td>Gömülü Sistemler için Özel Olarak Sıfırdan Geliştirilmiş Makine Öğrenmesi Kütüphanesi</td>
+      <td><code>Makine Öğrenmesi</code>, <code>Python</code>, <code>Lineer Cebir</code>, <code>Kalkülüs</code></td>
+    </tr>
+    <tr>
       <td><b><a href="https://github.com/HalilHuseyinCaliskan/CUDA_Image_Processing_Kernels">CUDA_Image_Processing_Kernels</a></b></td>
       <td>CUDA Tabanlı Görüntü İşleme Çekirdeklerinin Geliştirilmesi</td>
       <td><code>CUDA</code>, <code>GPU</code>, <code>C++</code></td>
