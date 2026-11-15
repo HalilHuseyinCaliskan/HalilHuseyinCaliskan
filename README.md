@@ -17,7 +17,7 @@
 </div>
 <br>
 
-<h3>📌 Öne Çıkan Projelerim</h3>
+<h3>📌 Öne Çıkan GitHub Projelerim</h3>
 
 <table>
   <thead>
