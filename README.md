@@ -15,5 +15,33 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
 <br>
+
+<h3>📌 Öne Çıkan Projelerim</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>Proje</th>
+      <th>Açıklama</th>
+      <th>Teknolojiler</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><b><a href="https://github.com/HalilHuseyinCaliskan/riscv-fpga">riscv-fpga</a></b></td>
+      <td>FPGA üzerinde RISC-V tabanlı işlemci mimarisi ve tasarımı.</td>
+      <td><code>VHDL</code>, <code>RISC-V</code>, <code>FPGA</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/halilhuseyincaliskan">Proje 2</a></b></td>
+      <td>Görüntü işleme / derin öğrenme tabanlı proje açıklaması.</td>
+      <td><code>Python</code>, <code>PyTorch</code>, <code>OpenCV</code></td>
+    </tr>
+    <tr>
+      <td><b><a href="https://github.com/halilhuseyincaliskan">Proje 3</a></b></td>
+      <td>Sayısal tasarım / gömülü sistemler proje açıklaması.</td>
+      <td><code>Verilog</code>, <code>C/C++</code></td>
+    </tr>
+  </tbody>
+</table>
