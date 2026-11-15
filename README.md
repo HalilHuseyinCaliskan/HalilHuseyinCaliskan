@@ -41,7 +41,7 @@
     <tr>
       <td><b><a href="https://github.com/HalilHuseyinCaliskan/CUDA_Image_Processing_Kernels">CUDA_Image_Processing_Kernels</a></b></td>
       <td>CUDA Tabanlı Görüntü İşleme Çekirdeklerinin Geliştirilmesi</td>
-      <td><code>CUDA</code>, <code>GPU</code>, <code>C++</code></td>
+      <td><code>CUDA</code>, <code>GPU</code>, <code>C++</code>, <code>Kernel</code></td>
     </tr>
     <tr>
       <td><b><a href="https://github.com/HalilHuseyinCaliskan/CoreSense">CoreSense</a></b></td>
